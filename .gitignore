@@ -1,0 +1,5 @@
+/TelegramBot/bin
+/TelegramBot/obj
+/TelegramBot/Keys.cs
+/.vs
+/packages
